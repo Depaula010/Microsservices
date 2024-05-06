@@ -1,7 +1,3 @@
-Claro, aqui está um exemplo de README para o seu projeto:
-
----
-
 # Microservices Application with .NET 6, Docker, and Docker Compose
 
 Este é um exemplo de aplicação de microsserviços utilizando .NET 6 e Docker para orquestração dos containers. A aplicação consiste em três microsserviços:
